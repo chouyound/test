@@ -1,0 +1,7 @@
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\TestContent2\bin\Release\TestContent2.dll
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\TestContent2\bin\Release\TestContent2.pdb
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\TestContent2\bin\Release\Baymax.dll
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\TestContent2\bin\Release\Baymax.pdb
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\TestContent2\obj\Release\TestContent2.csprojResolveAssemblyReference.cache
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\TestContent2\obj\Release\TestContent2.dll
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\TestContent2\obj\Release\TestContent2.pdb
