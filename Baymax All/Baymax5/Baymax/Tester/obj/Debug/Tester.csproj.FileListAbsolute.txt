@@ -1,0 +1,11 @@
+C:\Users\TR\Desktop\Baymax All\Baymax4\Baymax\Tester\bin\Debug\Tester.exe.config
+C:\Users\TR\Desktop\Baymax All\Baymax4\Baymax\Tester\bin\Debug\Tester.exe
+C:\Users\TR\Desktop\Baymax All\Baymax4\Baymax\Tester\bin\Debug\Tester.pdb
+C:\Users\TR\Desktop\Baymax All\Baymax4\Baymax\Tester\bin\Debug\Baymax.dll
+C:\Users\TR\Desktop\Baymax All\Baymax4\Baymax\Tester\bin\Debug\Baymax.DMAggrandizement.dll
+C:\Users\TR\Desktop\Baymax All\Baymax4\Baymax\Tester\bin\Debug\AipSdk.dll
+C:\Users\TR\Desktop\Baymax All\Baymax4\Baymax\Tester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TR\Desktop\Baymax All\Baymax4\Baymax\Tester\bin\Debug\Baymax.pdb
+C:\Users\TR\Desktop\Baymax All\Baymax4\Baymax\Tester\bin\Debug\Baymax.DMAggrandizement.pdb
+C:\Users\TR\Desktop\Baymax All\Baymax4\Baymax\Tester\obj\Debug\Tester.exe
+C:\Users\TR\Desktop\Baymax All\Baymax4\Baymax\Tester\obj\Debug\Tester.pdb
