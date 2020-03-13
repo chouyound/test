@@ -1,0 +1,11 @@
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\MyContent\obj\Release\MyContent.csprojResolveAssemblyReference.cache
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\MyContent\bin\Release\MyContent.dll
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\MyContent\bin\Release\MyContent.pdb
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\MyContent\bin\Release\AipSdk.dll
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\MyContent\bin\Release\Baymax.dll
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\MyContent\bin\Release\MyDm.dll
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\MyContent\bin\Release\Newtonsoft.Json.dll
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\MyContent\bin\Release\Baymax.pdb
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\MyContent\bin\Release\MyDm.pdb
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\MyContent\obj\Release\MyContent.dll
+C:\Users\TR\Desktop\Baymax All\Baymax5\Baymax\MyContent\obj\Release\MyContent.pdb
